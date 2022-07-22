@@ -1,2 +1,2 @@
 # Yondo Arrow
- An yondo arrow marvel prtotype
+ An yondo arrow marvel prototype
